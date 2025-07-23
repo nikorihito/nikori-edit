@@ -3,8 +3,11 @@
   "description": "マイクラで使えるWorldEdit風ツール。チャットコマンドで建築操作が可能！",
   "dependencies": {},
   "files": [
-    "main.ts"
+    "main.ts",
+    "icon.png"
   ],
   "public": true,
-  "supportedTargets": ["minecraft"]
+  "supportedTargets": ["minecraft"],
+  "preferredEditor": "ts",
+  "icon": "icon.png"
 }
